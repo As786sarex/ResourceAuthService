@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: resourceauthservice
+  security:
+    enabled: false
+netty:
+  default:
+    allocator:
+      max-order: 3
+
